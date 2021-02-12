@@ -1,0 +1,6 @@
+{
+    "url": "mattermost.com",
+    "endpoint": "mattermost.com/channel",
+    "channel_id": "12345",
+    "token": "abcd"
+}
